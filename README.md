@@ -26,7 +26,7 @@ SITUA-CQ algorithm can be simulated.
 1) 'src/Simulation Result Experiment'
     - the effect of accuracy 
 
-##References
+## References
 [1] S. Seo, J. Lee, H. Ko, and S. Pack, 
 ``Performance-Aware Client and Quantization Level Selection Algorithm 
 for Fast Federated Learning,'' 
