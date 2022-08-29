@@ -8,7 +8,7 @@ Moreover, this code is based on PyTorch and QPyTorch [2].
 ## Description of components in a nutshell
 In 'preliminary Experiments' folder, the effects of the over all distributions, 
 distributions of quantization levels and the number of selected clusters 
-can be simulated.
+can be simulated. At this simulation, each cluster in our code have one client. 
 
 Files below can simulate:
 1) 'src/preliminary Experiments/test_distribution_of_theta_b.py'
