@@ -25,6 +25,9 @@ SITUA-CQ algorithm can be simulated.
 
 1) 'src/Simulation Result Experiment'
     - the effect of accuracy 
+    
+If you want to generate the non-iid data distribution for each client, 
+please refer to 'src/distribution_generator.py'
 
 ## References
 [1] S. Seo, J. Lee, H. Ko, and S. Pack, 
