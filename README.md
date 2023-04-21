@@ -7,7 +7,7 @@ Moreover, this code is based on PyTorch and QPyTorch [2].
 
 To use this code, please refer SITUA-CQ under below.
 
-S. Seo, J. Lee, H. Ko and S. Pack, "Situation-Aware Cluster and Quantization Level Selection Algorithm for Fast Federated Learning," IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3262582.
+S. Seo, J. Lee, H. Ko, and S. Pack, "Situation-Aware Cluster and Quantization Level Selection Algorithm for Fast Federated Learning," IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3262582.
 
 ## Description of components in a nutshell
 In 'preliminary Experiments' folder, the effects of the over all distributions, 
