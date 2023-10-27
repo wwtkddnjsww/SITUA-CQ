@@ -1,13 +1,15 @@
 # SITUA CQ
 
-In this repository, we offer the code of SITUA-CQ algorithm, 
-which is extended version of research paper published in WCNC 2022 [1].
+In this repository, we offer the code of the SITUA-CQ algorithm, 
+which is published in IoT Journal [1] and an extended version of the research paper published in WCNC 2022 [2].
 
-Moreover, this code is based on PyTorch and QPyTorch [2].
+Moreover, this code is based on PyTorch and QPyTorch [3].
 
-To use this code, please refer SITUA-CQ under below.
+To use this code, please refer to SITUA-CQ under below.
 
-S. Seo, J. Lee, H. Ko, and S. Pack, "Situation-Aware Cluster and Quantization Level Selection Algorithm for Fast Federated Learning," IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3262582.
+'''
+[1] S. Seo, J. Lee, H. Ko, and S. Pack, "Situation-Aware Cluster and Quantization Level Selection Algorithm for Fast Federated Learning," IEEE Internet of Things Journal, doi: 10.1109/JIOT.2023.3262582.
+'''
 
 ## Description of components in a nutshell
 In 'preliminary Experiments' folder, the effects of the over all distributions, 
@@ -34,12 +36,13 @@ If you want to generate the non-iid data distribution for each client,
 please refer to 'src/distribution_generator.py'
 
 ## References
-[1] S. Seo, J. Lee, H. Ko, and S. Pack, 
+
+[2] S. Seo, J. Lee, H. Ko, and S. Pack, 
 ``Performance-Aware Client and Quantization Level Selection Algorithm 
 for Fast Federated Learning,'' 
 in *Proc. IEEE WCNC 2022*, April 2022.
 
-[2] T. Zhang, Z. Lin, G. Yang, and C. De Sa, 
+[3] T. Zhang, Z. Lin, G. Yang, and C. De Sa, 
 "QPyTorch: A Low-Precision Arithmetic Simulation Framework," 
 arXiv preprint arXiv:1910.04540, October 2019.
 
